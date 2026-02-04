@@ -1,0 +1,13 @@
+# Base de datos
+*.db
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Archivos del IDE
+.idea/
+*.iml
+
+# CSV de prueba
+nuevas_ventas.csv
